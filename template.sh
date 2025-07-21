@@ -11,4 +11,5 @@ touch app.py
 touch reasearch/trials.ipynb
 touch requirements.txt
 
+
 echo "Project structure created successfully!."
